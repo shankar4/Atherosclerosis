@@ -8,15 +8,24 @@ Kim et al. (2) indicates that there is a 'master gene' model that is generally a
 
 Payer et al. (3) explore polymorphic *Alu* insertion variants that function in a common variant, common disease paradigm. They cataloged 809 polymorphic *Alu* elements mapping to 1,159 loci implicated in disease by GWAS. They found that *Alu* insertion variants occur disproportionately at GWAS loci. They found 44 of these *Alu* elements in linkage disequilibrium (LD) with the trait-associated SNP. This represents a 20 fold increase in the number of polymorphic *Alu* elements associated with human phenotypes. To identify polymorphic retrotransposon copies that could affect disease risk, they focused on those copies mapping to locations already associated with disease phenotypes by GWAS. Earlier, they catalogued polymorphic *Alu* elements near GWAS signals. By using conditions specific to detecting  *Alu*Ya5/8 and *Alu*Yb8/9 families, they avoided the evolutionarily older *Alu* subfamilies that are largely invariant for all of the human population (i.e., homozygously present in all people). Their work is based on 9 Utal residents. 
 
+Brodie et al. (4) discuss a new way to associate GWAS-identified SNPs to causative genes.  Most such SNPs are in non-coding regions and far away from the genes they implicate. They used a biological pathway-based approach to find this linkage. The affected genes were often found to be up to 2 Mbps away from the associated SNP,  not necessarily the closest genes to the SNP. Existing approaches for mapping SNPs to genes  reveal only 86 significant phenotype-pathway associations for all known GWAS hits combined. There are 3 such approaches: LD (Linkage Disequilibrium);  an upstream cutoff of 2 Kbps and a downstream cutoff of 0.5 Kbps to map a SNP to a gene (as with SNP database dbSNP); and  A larger cutoffs of up to 100 Kbps or more at 500 Kbps. But even these cutoffs leave many GWAS hits with no associations to any gene
+
+Using the pathway-based approach they mapped virtually all SNPs to genes and revealed 435 statistically significant phenotype-pathway associations. IThey also found that SNPs that are mapped to distant genes have significantly more large insertions/deletions around them than other SNPs, suggesting that these SNPs may sometimes be markers for large insertions/deletions that may affect large genomic regions and distant genes. 
+
+Brodie's method: They extracted Phenotype-SNP associations  from GWAS data in the NHGRI GWAS catalog. It contains manually curated entries of published GWAS, in which SNPs were associated with diseases, phenotypes, and traits.  Gene symbols were taken from Genenames, while the genomic locations of SNPs and genes were taken from the UCSC genome browser. Biological pathways and their associated genes were taken from the KEGG pathway database (and cross-validated with  ConsensusPathDB, or CPDB).  Genomic indels were taken from DGV, a database of genomic structure variants (SV). These were used for the analysis of whether more indels fall in phenotype-associated SNP-gene regions. For the analysis of indels around SG regions (the region between a SNP and a gene) they used GWAS Catalog version downloaded from www.genome.gov/gwastudies.
+
 
 
 References:
 1. Shen et al., (2001). Widespread establishment and regulatory impact of Alu exons in human genes, *PNAS*, Vol. 108, pp. 2837-2842.
 2. Kim et al., (2016).  Structural Variation of *Alu* element and human disease, *Genomics and Informatics*, Vol. 14, pp. 70-77.
 3. Payer, et al., (2017). Structural variants caused by *Alu* insertions are associated with risks for many human diseases, *PNAS*, published online, pp. E3984-E3992 
+4. Brodie et al. (2016). How far from the SNP may the causative genes be? *Nucleic Acids Research*, Vol. 44, Pp. 6046–6054, accessed [here](https://academic.oup.com/nar/article/44/13/6046/2457612). 
 
 Glossary: 
 * EST - expressed sequence tag
 * GWAS - Genomic Wide Association Studies
 * LINE-1 - long interspersed nuclear element-1
 * SINE - Short interspersed nuclear element
+* TAS - trait-associated SNP
+* LD - Linkage Disequilibrium
