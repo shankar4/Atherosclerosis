@@ -14,8 +14,6 @@ Using the biological pathway-based approach they mapped virtually all SNPs to ge
 
 Brodie's method: They extracted Phenotype-SNP associations  from GWAS data in the NHGRI GWAS catalog. It contains manually curated entries of published GWAS, in which SNPs were associated with diseases, phenotypes, and traits.  Gene symbols were taken from Genenames, while the genomic locations of SNPs and genes were taken from the UCSC genome browser. Biological pathways and their associated genes were taken from the KEGG pathway database (and cross-validated with  ConsensusPathDB, or CPDB).  Genomic indels were taken from DGV, a database of genomic structure variants (SV). These were used for the analysis of whether more indels fall in phenotype-associated SNP-gene regions. For the analysis of indels around SG regions (the region between a SNP and a gene) they used GWAS Catalog version downloaded from www.genome.gov/gwastudies.
 
-
-
 References:
 1. Shen et al., (2001). Widespread establishment and regulatory impact of Alu exons in human genes, *PNAS*, Vol. 108, pp. 2837-2842.
 2. Kim et al., (2016).  Structural Variation of *Alu* element and human disease, *Genomics and Informatics*, Vol. 14, pp. 70-77.
