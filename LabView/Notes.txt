@@ -1,0 +1,4 @@
+These are from Hands-on Introduction to LabView, 3rd edition (2016), by John Essick. 
+
+Chapter 2: For loop and Waveform Chart.
+Chapter 3: While loop, Waveform Graph, cluster data, array display, error display, and run-time probing. Repeat with For loop also. Waveform Graph can accept data previously stored and for multi-plot display. 
