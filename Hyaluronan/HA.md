@@ -1,0 +1,1 @@
+I have recently read interesting articles and books on Hyaluronan, and by extension, the role of polysaccharides in biophysics and system level behavior. This will be documented here. The goal is to summarize parallel work in other fields and determine how best to incorporate them in linkage of genomics to disease progression through simple noninnvasive biomarkers. 
