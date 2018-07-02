@@ -18,8 +18,8 @@ Corrrect set up, if prevalence is 10%:
 
 Diagnostic Test   |  Disease Present   | Disease Absent
 ------------------|--------------------|---------------
-Positive          |     27             | 350
-Negative          |     10             | 770
+Positive          |     27 (TP)        | 350 (FP)
+Negative          |     10 (FN)        | 770 (TN)
 
 
 Sn = 27/37 = 73%; Sp = 770/1120 = 69%; P (prevalence) = 37/ 1147 = 3,5%; PPV = 27/377 = 8% (not 27/62 = 42% in Fig 3.3 where the Absent category #s were 35 and 77); NPV = 770/780 = ~ 100% (Vs 77/87 = 88% in Fig 3.3). 
