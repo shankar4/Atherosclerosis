@@ -11,6 +11,9 @@ Tests that have both high Sn and Sp are rare; Clinicians must use other means fo
 
 Some notes: University hospitals are likely to have high prevalence populations and PPV/NPV obtained are probably not pertinent to general population. Also, for case-control studies, the N for both groups is about the same, thus leading to a prevalence of 50% with the PPV falsely elevated. 
 
+Likelihood Ratios: an alternate way of describing the performance of a diagnostic test. Odds is the ratio of two probabilities. Odds are 4 : 1 that Team A will win against Team B - same as 80% probability of winning for Team A. 
+Posttest Odds = Pretest Odds x Likelihood Ratio. LR+ = Sn/(1-Sp) - it is the slope of the ROC at various cutoff points; LR- = (1-Sn)/Sp. *LRs can accomodate the common and reasonable clinical practice of putting more weight on very high (or low) test results than the borderline ones, when estimating the probability (or odds) that a particular disease is present*. In the example of T<sub>4</sub> based screening for hypothyroidism (and later treatment responses), a value of T<sub>4</sub> < 4 μg/dl or a LR+ of > 13.8 ruled it in; Similarly a value of > 8 μg/dl or a LR+ of < 0.4 ruled it out. Both LR values can be read off of an ROC plot. 
+
 Corrrect set up, if prevalence is 10%:
 
 Diagnostic Test   |  Disease Present   | Disease Absent
@@ -19,7 +22,7 @@ Positive          |     27             | 350
 Negative          |     10             | 770
 
 
-
+Sn = 27/37 = 73%; Sp = 770/1120 = 69%; P (prevalence) = 37/ 1147 = 3,5%; PPV = 27/377 = 8% (not 27/62 = 42% in Fig 3.3 where the Absent category #s were 35 and 77); NPV = 770/780 = ~ 100% (Vs 77/87 = 88% in Fig 3.3). 
 
 Refs:
 1. Fletcher, R.H., et el., Clinical Epidemiology: the essentials, 2nd edition, Williams and Wilkins, 1988
