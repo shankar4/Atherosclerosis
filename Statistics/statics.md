@@ -1,5 +1,5 @@
 
-This is a quick reference for various related concepts. Fletcher et al. (1988) is a well written book that describes these concepts in a simple-to-understand style.
+This is a quick reference for various related concepts. Fletcher et al. (1988) is a well written book that describes these concepts in a simple-to-understand style. This covers most of the material in Chapter 3. 
 
 From a 2 x 2 table of Test Vs Disease, Se or Sn - Sensitivity ( or True Positive Rate) = TP/ (TP+FN); (1 -Specificity) is the False Positive Rate, where Sp (specificity) = TN/ (TN + FP). Hence False Positive Rate = FP/(TN + FP). For diabetes, a blood sugar level of >180 mg% would be highly specific and a level > 70 mg% would be highly sensitive. Goal is to find the appropriate cutoff with good Sn and Sp. *My interpretation: Poor Sn can kill; poor Sp can upset the pt*. High Sn is good for mass scrrening and for initial screening of a diagnostic workup (when a great many possibilities are being considered). It is most useful when the test result is negavie. High Sp is used to 'rule-in' a diagnosis taht has been suggested by other data. It is most useful when the test result is positive. One would perform a tissue assay with high Sp before starting cancer therapy to avoid the harm of unnecessary physical, emotional, or financial consequences. 
 
