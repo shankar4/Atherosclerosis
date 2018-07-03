@@ -3,7 +3,9 @@ Say a coin is tossed 1000 times. How to tell whether it is biased? An unbiase co
 
 ![alt text](https://github.com/iShankar/Atherosclerosis/blob/master/Statistics/power-curve-1000.png)
 
-
+<p align="center">
+  <img src=https://github.com/iShankar/Atherosclerosis/blob/master/Statistics/power-curve-1000.png width="350">
+</p>
 
 
 References:
