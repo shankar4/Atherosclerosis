@@ -1,12 +1,9 @@
 
-Say a coin is tossed 1000 times. How to tell whether it is biased? An unbiase coin will give this plot [from Ref 1]:
-
-![alt text](https://github.com/iShankar/Atherosclerosis/blob/master/Statistics/power-curve-1000.png)
-
+Statistical Power: Say a coin is tossed 1000 times. How to tell whether it is biased? An unbiased coin will give this power curve [from Ref 1]:
 <p align="center">
   <img src=https://github.com/iShankar/Atherosclerosis/blob/master/Statistics/power-curve-1000.png width="350">
 </p>
-
+With one thousand flips, one can easily see if the coin is biased to give heads 60% of the time. One could not flip a fair coin 1,000 times and get more than 600 heads.
 
 References:
  1. Statistical power and underpowered statistics, accessed on 7/3/2018 at https://www.statisticsdonewrong.com/power.html
