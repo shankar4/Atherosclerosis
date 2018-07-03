@@ -1,7 +1,7 @@
 
-Say a coin is tossed 1000 times. How to tell whether it is biased? An unbiase coin will give this plot:
+Say a coin is tossed 1000 times. How to tell whether it is biased? An unbiase coin will give this plot [from Ref 1]:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/iShankar/Atherosclerosis/blob/master/Statistics/power-curve-1000.png)
 
 
 
