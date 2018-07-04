@@ -1,7 +1,7 @@
 I provide here summary of three reference books on this topic:
 1. Introduction to Molecular Biophysics, by J.A. Tuszynski and M Kurzynski, CRC Press, 2003 and
 2. Biophysical Principles of Structure and Function, by F.M. Snell, S. Shulman, R.P. Spencer, and C. Moos, Addison-Wesley, 1965.
-3. Biophysics: Searching for Principles, by William Bialek, Princeton University Press, 2012
+3. Biophysics: Searching for Principles, by William Bialek, Princeton University Press, 2012. A draft copy is available [here](https://www.princeton.edu/~wbialek/PHY562/WB_biophysics110918.pdf). 
 
 They help us see a continuum of old concepts and evolution of new concepts. Water and Polysaccharides are still covered in the newer reference as fundamental building blocks, but not as rigorously as Proteins and Nucleic Acid. The newer reference also mentions nonlinear phenomenon (".. life is a strongly nonlinear and nonequilibrium phenomenon."), albeit at the end of the book. The newer book's publication also coincided with resurgence of nonlinear phenomenon and scaling theories as research topics. Research interest today (in 2018) seems to be focused on genomic studies to identify genetic and genomic links to complex diseases (in our case, cardiovascular diseases). Yield has not been particularly significant which may signal a fundamental turn to reconsider the more recently ignored perspectives. I will attempt to summarize information on all the biophysical aspects, in the hope of developing better unified theories to understand molecular roles in disease processes. The utlimate goal is to relate them to measurable and sensitive noninvasive biomarkers.
 
