@@ -9,12 +9,14 @@ Szebeni et al. (1990) explored the reason for attenuation of the ultrasound sign
 Lewis articles in the Merck online reference manual: Water accounts for 50% to 66% of a person's weight. Fat tissue (vs lean tissue) has less water. Women have more fat - so the % of water in women is lower (52 to 55%) vs men (60%). TBW is also lower in older and obese people, higher (70%) at birth and early childhood. *A 154 pound (70 Kg) man has 10.5 gallons (42 liters) of water - 7 gallons (28 liters) intracellular, 2.5 gallons (10.5 liters) in extracellular spaces, and 1 gallon (3.5 liters) in the blood*. Healthy adults sshould drink 2 quarts (2 liters) of fluids per day. body is good at excreting excess water drank, but not at conserving water in case of limited intake. Water is primarily absorbed from the GI tract (also obtained from metabolic activities). Depending upon the body's needs, the Kidneys (the primary source of water removal) may excrete a pint or several gallons of urine per day. Profus sweating can significantly increase water loss through evaporation. The body works to keep the total amount of water and electrolyte levels constant. When the body is low in water, the *pituitary gland* secretes vasopressin (ADH) which stimulates the kidneys to conserve water and excrete less urine. Intracellular K and Na concns: 140 and 12 mEq/L, respectively. Extracellular: 3.5 to 5 and 140 mEq/L, respectively. *Osmotic forces*: The concentration of combined solutes in water is osmalarity (amount of solute per L of solution). Osmalality (amount of solute per Kg of solution) in units of mOsm/Kg is given as 2 * serum Na (in mEq/L) + 1/18 * Glucose (in mg/dL) + 1/2.8 * BUN (in mg/dL). Normal value: 275 to 290 mOsm/Kg. High Na (viz., salty food), high glucose (in diabetes), and high BUN (in kidney disease) increase osmalality.  Other osmatically active substances are alcohols, mannitol, and glycine. Water (not solutes) crosses cell membranes freely to equalize osmalality. Solutes that diffuse freely across the membrane (such as urea) have no osmotic activity. Na/K have restricted movement and contribute heavily to osmotic activity. Osmotic force can be opposed by other forces: plasma proteins have a small osmotic effect that tends to draw water into the plasma. Vascular hydrostatic forces force water out of the plasma. *There is twice as much water inside cells*. Water loss per day (in a 70 Kg person): 1.5 L from urine; 0.75 L from lungs and skin; with fever, 0.06 L/degree C increase. An increase of just 2% in plama osmalality can trigger thirst from hypothalamus.  
 
 Basile et al., (2008) compared TBW estimated by two anthropometric equations (by Watson and Hume) with TBW obtained by BIA in 3625 normal caucasian men and women (1860 M and 1765 W) and 688 hemodialysis patients (443 M and 245 W). BIA used ) 0.8 mA, 50-KHz four electrode method. Pairs were matched for age, body weight, and height, and gender. TBW was the same amongst each of the genders (no difference for diseased vs normal subjects). However, *R* from BIA was statistically different. See table below:
-| Group  | Gender   |  Mean(in Ω)   | SD (in Ω)    | Significance
------------------------------------------------------------------
-| Disease| Male | 558 |80 | *P* <0.0001 for men
-| Normal | Male | 511| 58 |
-|Disease | Female| 615|100| *P* < 0.02 for women
-| Normal | Female| 593| 70|
+
+
+| Group  | Gender   | Mean(in Ω) | SD (in Ω) | Significance  |
+|--------|:---------|:-----------|:----------|:--------------|
+| Disease| Male | 558 |80 | *P* <0.0001 for men|
+| Normal | Male | 511| 58 | |
+|Disease | Female| 615|100| *P* < 0.02 for women|
+| Normal | Female| 593| 70|  |
 
 
 
