@@ -20,6 +20,8 @@ Basile et al., (2008) compared TBW estimated by two anthropometric equations (by
 
 The authors indicate that the BIA method has been well validated against meansurement of body fluid volume through isotome dilution in non-uraemic subjects. They use a BIA equation developed by Sun et al that uses gender, body weight and height, as the anthropometric equations do, but with the addition of *R*. 
 
+Rosner and Gore (2001) discuss the errors involved in estimating the nutrient intake through FFQ (food frequency quetionnaire) or 24-hour recall. Weighted diet records  provide accurate assessments. They suggest the use of a validation study on a subset of individuals to ascertain the relation between the two methods. They also model disease incidence as a function of estimated diet record food (and nutrient) intake and apply prospectively these methods to breast cancer data from the Nurse's Health Study. They related breast cancer incidence from 1980 to 1994 to estimated sucrose and alcohol intake in 1980. Surcose intake is inversely associated with alcohol intake and alcohol is an established positive risk factor for breast cancer. OR for alcohol was 1.2+ (Quintile 5 vs Quintile 1, based on alcohol intake). 
+
 * Szebeni, A., et al., Ultrasonography and water content of the liver in chronic diffuse liver
 disease, *Acta Med Hung*, vol.. 47, no. 3-4, 1990, pp. 163-170
 * Lesis, III,  J.L., About Body Water, Merck Manual, acccessed online on 7/9/8 [here](https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/water-balance/about-body-water).
