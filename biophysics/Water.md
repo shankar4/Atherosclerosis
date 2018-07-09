@@ -5,8 +5,8 @@ From "Biophysical Principles of Structure and Function", by Snell et al., Addiso
 Physical properties of various liquids:
 
 |Substance    |Heat of Vap   | Sp. heat  | Surf. tension| Dielect. const| Viscosity  |
-|             |cal/gm        | cal/gm-deg| erg/cm* cm   | esu           | millipoises|
-|-------------|:-------------|:----------|:-------------|:--------------|:-----------|
+|-------------|:------------:|:---------:|:------------:|:-------------:|:----------:|
+| Units       |cal/gm        | cal/gm-deg| erg/cm* cm   | esu           | millipoises|
 |Water, 0 C   | 596          | 1.009     | 75.64        |  88           | 17.92      |
 |Water, 100 C | 540          | 1.006     | 58.85        |  48           |  2.84      |
 |Methyl Alcohl| 262          | 0.6       | 22.6         |  33           |  5.93      |
