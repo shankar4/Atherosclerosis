@@ -1,4 +1,4 @@
-Ref: Biophysics: Searching for Essentials by W. Bialek, 2012. More info in readme. These are preliminary notes. I have raw notes under [Nonlinear Systems folder](Nonlinear-Systems/Biophysics/biophysics.md) also. 
+Ref: Biophysics: Searching for Essentials by W. Bialek, 2012. More info in readme. These are preliminary notes. I have raw notes under [Nonlinear Systems folder](https://github.com/shankar4/Nonlinear-Systems/blob/master/Biophysics/biophysics.md) also. 
 
 ### Chapter 3: Lessons, Problems, and Principles:
 1. Photon counting in vision - eg of a real biological phenomenon that is reproducible and quantitative, as with physics experiments, under well defined experimental conditions to get the needed precision. the total rod current in the dark ~ 20 pA; response to a single photon ~ 1 pA; and continuous background noise ~ 0.1 pA, due to tiny modulations of the cell's biochemical activity. 
