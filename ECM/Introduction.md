@@ -14,4 +14,7 @@ Other Matrix Molecules:
 * Heparan Sulfate Proteoglycans: They play key roles during normal development, tissue morphogenesis, and wound healing. They also participate in selective filtration of biological fluids, cellular barriers, and in modulation of angiogenesis. 
 * Matricellular Proteins: These modulate cell-matrix ineractions and cell functions, but do not have a structural role. 
 * Elastic Tissues: They allow for *repetitive distending/relaxing or passive lengthening/shortening movements endowing the tissues with flexibility and rubber-like extensibility*. Elastic fibers occurs as concentric sheets or lamellae in blood vessels. Elastic tissues have elastin predominantly, along with fibrillin and a smaller glycoprotein, microfibril-associated glycoprotein (MAGP). A single gene encodes elastin, with alternatively spliced products; Fibrillin is encoded by two genes. *Elastic fibers are extremely inert and difficult to extract from ECM*. MMP-12 is the elastase isolated from macrophages. 
-* Calcified Tissues: 
+* Calcified Tissues: Calcification (or biomineralization) involves deposition of hydroxyapatite (calcium biphosphate) in the ECM, primarily on the fibrillar collagen. Physiological in bone. Pathological in soft tissues such as tendon, kidney, blood vessels, and snyovial joints. So, this must be carefully and critically regulated. Hypertrophic chrondocytes produce the enzymes necessary to remodel the matrix, mainly MMP13 and MMP9. 
+
+Surprises in the ECM - Latent functions of matrix molecules: 
+* Degradative Enzymes in the ECM: MMPs and ADAMs
